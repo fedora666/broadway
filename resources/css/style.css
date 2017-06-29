@@ -9,12 +9,26 @@ h1 {
 	color: white;
 }
 
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
+
 a {
 	color: white;
 }
 
-.header {
+.bgimg {
 	background-image: url(../images/the-flatiron-building.png);
+	background-repeat: no-repeat;
+}
+
+.header {
 	color: white;
 	font-size: 18px;
 }
