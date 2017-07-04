@@ -1,10 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-    <link type="text/css" rel="stylesheet" href="">
-  </head>
-  <body>
-  </body>
-</html>
+body {
+	text-align: center;
+	font-family: helvetica;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+p {
+	font-size: 14px;
+}
+
+.hero {
+	background-image: url("../images/the-flatiron-building.png");
+	color: white;
+}
+
+.btn-nav {
+	font-size: 18px;
+	text-decoration: underline;
+	color: white;
+}
+
+.copyright {
+	font-size: 11px;
+	text-align: left;
+	color: white;
+	background-color: dimgray;
+}
+
+#btn-nav2 {
+	font-size: 11px
+}
